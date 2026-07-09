@@ -1,1 +1,1 @@
-# MNIST_Classification_Modell
+# MNIST_Classification_Model
