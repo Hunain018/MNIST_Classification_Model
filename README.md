@@ -1,1 +1,1 @@
-# MNIST_Classification_Mod
+# MNIST_Classification_Mode
